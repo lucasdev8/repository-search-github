@@ -1,4 +1,4 @@
-#<h1>repository-search-github<h1/>
+#repository-search-github
 Aplicação simples feita em React-TypeScript que faz busca de repositórios no GitHub, apenas passando o nome do usuário.
   
 Para testar a aplicação siga o tutorial
