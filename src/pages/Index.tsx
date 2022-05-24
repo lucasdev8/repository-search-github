@@ -12,7 +12,7 @@ export function Index() {
         
         axios.get(apiGitHub)
             .then(response => {
-
+    
                 const repositories = response.data;
                 const owner = repositories[0].owner;
 
